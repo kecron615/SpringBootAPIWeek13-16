@@ -23,7 +23,7 @@ public class Employee {
 	private String employeePhone;
 	private String employeeJobTitle;
     
-    @ManyToOne(cascade = CascadeType.ALL)
+    @ManyToOne(cascade = CascadeType.PERSIST)
     @JoinColumn(name = "pet_store_id")
     @EqualsAndHashCode.Exclude
     @ToString.Exclude

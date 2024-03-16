@@ -1,0 +1,26 @@
+{
+"petStoreName": "Puppy Palace",
+"petStoreAddress": "123 Canine Ave",
+"petStoreCity": "Pit Bull Park",
+"petStoreState": "MassaCHEWsetts",
+"petStoreZip": "12345",
+"petStorePhone":"1-800-Get-A-Dog"
+}
+
+{
+"petStoreName": "Kitten Kastle",
+"petStoreAddress": "321 Feline Blvd",
+"petStoreCity": "Maine Coon County",
+"petStoreState": "Purr-lifornia",
+"petStoreZip": "54987",
+"petStorePhone":"1-855-Meow-Now"
+}
+
+{
+"petStoreName": "Fin-tastic Fish Emporium",
+"petStoreAddress": "100 Trout St",
+"petStoreCity": "Salmon Springs",
+"petStoreState": "Flounder-ida",
+"petStoreZip": "00000",
+"petStorePhone":"1-888-Shark-Week"
+}

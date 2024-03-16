@@ -55,7 +55,7 @@ public class PetStoreData {
 			customerLastName = customer.getCustomerLastName();
 			customerEmail = customer.getCustomerEmail();
 		}
-		
+
 	}
 	
 	@Data
@@ -74,5 +74,6 @@ public class PetStoreData {
 			employeePhone = employee.getEmployeePhone();
 			employeeJobTitle = employee.getEmployeeJobTitle();
 		}
+
 	}
 }

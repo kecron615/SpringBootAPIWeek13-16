@@ -1,0 +1,59 @@
+{
+"customerFirstName": "Jane",
+"customerLastName": "Doe",
+"customerEmail": "Jane.Doe@email.com"
+}
+
+{
+"customerFirstName": "Isabella",
+"customerLastName": "Adams",
+"customerEmail": "isabella.adams@email.com"
+}
+
+{
+"customerFirstName": "Noah",
+"customerLastName": "Bennett",
+"customerEmail": "Noah.Bennett@email.com"
+}
+
+{
+"customerFirstName": "Emma",
+"customerLastName": "Carter",
+"customerEmail": "Emma.Carter@email.com"
+}
+
+{
+"customerFirstName": "Liam",
+"customerLastName": "Davis",
+"customerEmail": "Liam.Davis@email.com"
+}
+{
+"customerFirstName": "Olivia",
+"customerLastName": "Evans",
+"customerEmail": "Olivia.evans@email.com"
+}
+{
+"customerFirstName": "Ethan",
+"customerLastName": "Foster",
+"customerEmail": "Ethan.foster@email.com"
+}
+{
+"customerFirstName": "Sophia",
+"customerLastName": "Garcia",
+"customerEmail": "sophia.garcia@email.com"
+}
+{
+"customerFirstName": "Mason",
+"customerLastName": "Hayes",
+"customerEmail": "Mason.hayes@email.com"
+}
+{
+"customerFirstName": "Ava",
+"customerLastName": "Ingram",
+"customerEmail": "Ava.ingram@email.com"
+}
+{
+"customerFirstName": "Logan",
+"customerLastName": "Jenkins",
+"customerEmail": "logan.jenkins@email.com"
+}

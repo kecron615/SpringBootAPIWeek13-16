@@ -1,27 +1,37 @@
 package pet.store.entity;
 
-import jakarta.persistence.*;
+import java.util.HashSet;
+import java.util.Set;
+
+import jakarta.persistence.CascadeType;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.ManyToMany;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.ToString;
-
-import java.util.HashSet;
-import java.util.Set;
+import pet.store.controller.model.PetStoreData;
 
 @Entity
 @Data
 public class Customer {
-    
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long customerId;
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long customerId;
 	private String customerFirstName;
 	private String customerLastName;
 	private String customerEmail;
-    
-    @ManyToMany(mappedBy = "customers", cascade = CascadeType.PERSIST)
-    @EqualsAndHashCode.Exclude
-    @ToString.Exclude
-    private Set<PetStore> petStores = new HashSet<>();
-}
 
+	@ManyToMany(mappedBy = "customers", cascade = CascadeType.PERSIST)
+	@EqualsAndHashCode.Exclude
+	@ToString.Exclude
+	private Set<PetStore> petStores = new HashSet<>();
+
+	public Object getPetStoreId() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+}

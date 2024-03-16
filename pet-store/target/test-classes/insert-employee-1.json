@@ -1,0 +1,70 @@
+{
+"employeeFirstName": "John",
+"employeeLastName": "Smith",
+"employeePhone": "123-456-7891",
+"employeeJobTitle": "Cashier"
+}
+
+{
+"employeeFirstName": "Jasmine",
+"employeeLastName": "Rodriguez",
+"employeePhone": "555-789-1234",
+"employeeJobTitle": "Cashier"
+}
+
+{
+"employeeFirstName": "Connor",
+"employeeLastName": "Patel",
+"employeePhone": "555-456-7890",
+"employeeJobTitle": "Stock Boy"
+}
+
+{
+"employeeFirstName": "Lily",
+"employeeLastName": "Nguyen",
+"employeePhone": "555-234-5678",
+"employeeJobTitle": "Manager"
+}
+
+{
+"employeeFirstName": "Sebastian",
+"employeeLastName": "Cooper",
+"employeePhone": "555-890-1234",
+"employeeJobTitle": "Manager"
+}
+
+{
+"employeeFirstName": "Maya",
+"employeeLastName": "Khan",
+"employeePhone": "555-678-9012",
+"employeeJobTitle": "Manager"
+}
+
+{
+"employeeFirstName": "Oliver",
+"employeeLastName": "Schmidt",
+"employeePhone": "555-345-6789",
+"employeeJobTitle": "Stock Boy"
+}
+
+{
+"employeeFirstName": "Sophia",
+"employeeLastName": "Campbell",
+"employeePhone": "555-901-2345",
+"employeeJobTitle": "Cashier"
+}
+
+{
+"employeeFirstName": "Ethan",
+"employeeLastName": "Martinez",
+"employeePhone": "555-123-4567",
+"employeeJobTitle": "Cashier"
+}
+
+{
+"employeeFirstName": "Ava",
+"employeeLastName": "Sullivan",
+"employeePhone": "555-789-0123",
+"employeeJobTitle": "Stock girl"
+}
+
